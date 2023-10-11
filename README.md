@@ -10,7 +10,7 @@ Hello there, I'm Carol Santos, a Computer Science student. 🚀
 
 - 📚 Computer Science student.
 - 💻 Front-end developer.
-- 🌌 In a galaxy far, far away, my heart belongs to the Force and the adventure of Star Wars! ✨
+- 🌌 Fun Fact: In a galaxy far, far away, my heart belongs to the Force and the adventure of Star Wars! ✨
 
 ## Technologies:
 - 👩‍💻 Currently learning.
